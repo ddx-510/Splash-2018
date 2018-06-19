@@ -219,7 +219,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setupNLU() {
-        String clientAccessToken = "b4db0de3732d484896051d186d9d96eb";
+        String clientAccessToken = "6159bd9364d84847ae512fb9b340e30b";
         // set up ai configuration
         AIConfiguration aiConfiguration = new AIConfiguration(clientAccessToken,
                 AIConfiguration.SupportedLanguages.English);
