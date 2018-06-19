@@ -6,3 +6,7 @@
     -   open camera at oncreate
     -   if user says "read news"
         -> if user respond ready, lock the camera temporally to do ocr 
+
+19 June updated
+- added new python files
+    - merging is still in progress
